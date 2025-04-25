@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1745574703 source:c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\calculadora\menu.c
+	<stdio.h>
+	"funciones.h"
+
+1745574873 c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\calculadora\funciones.h
+
+1745574877 source:c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\calculadora\funciones.c
+	<stdio.h>
+	"funciones.h"
+
