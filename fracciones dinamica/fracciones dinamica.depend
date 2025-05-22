@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1747912027 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fracciones.c
+	"fracciones.h"
+
+1747912680 c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fracciones.h
+
+1747918112 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\main.c
+	<stdio.h>
+	"fracciones.h"
+	"fraccionesMem.h"
+
+1747917796 c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fraccionesmem.h
+	"fracciones.h"
+
+1747918139 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fraccionesmem.c
+	"fraccionesMem.h"
+	<stdio.h>
+
+1747912027 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones dinamica\fracciones.c
+	"fracciones.h"
+
+1747912680 c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones dinamica\fracciones.h
+
+1747918139 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones dinamica\fraccionesmem.c
+	"fraccionesMem.h"
+	<stdio.h>
+
+1747917796 c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones dinamica\fraccionesmem.h
+	"fracciones.h"
+
+1747918244 source:c:\users\8209151\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones dinamica\main.c
+	<stdio.h>
+	"fracciones.h"
+	"fraccionesMem.h"
+
