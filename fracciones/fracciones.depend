@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1747912027 source:c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fracciones.c
+	"fracciones.h"
+
+1747912680 c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fracciones.h
+
+1747912742 source:c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fraccionesmem.c
+	"fraccionesMem.h"
+	<stdio.h>
+
+1747912702 c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\fraccionesmem.h
+	"fracciones.h"
+
+1747912846 source:c:\users\kkout\onedrive - fundación universitaria san pablo ceu\2024-2025\programacion\ejemplosprogra2025\fracciones\main.c
+	<stdio.h>
+	"fracciones.h"
+	"fraccionesMem.h"
+
